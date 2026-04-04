@@ -1,0 +1,2 @@
+model_order,distribution,dcc_a,dcc_b,a_plus_b,convergence,AIC,BIC,positive_definite_failures,stable
+"(4,4)",t,0.014878232936502938,0.955515709693409,0.970393942629912,True,6651.491554049855,6661.67004035991,0,True
